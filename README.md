@@ -1,6 +1,7 @@
 # Proglamlama dilleri Prjesinin Genel hatları
 
 Gerçek zamanlı olarak Java kodlarını renklendiren, sade ve optimize edilmiş bir **Swing tabanlı Syntax Highlighter**. Detaylı bilgi için pdf belgesi formatındaki makaleden yararlanabilirsiniz.
+https://youtu.be/tdDPMk_dcOg bu link üzerinden çalıştığını gösteren vdieoya ulaşabilirsiniz.
 
 ## ✨ Özellikler
 
